@@ -4,7 +4,6 @@ aiofiles
 anitopy
 apscheduler
 dnspython
-python-3.11.8
 motor==3.3.2
 feedparser
 psutil
